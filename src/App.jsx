@@ -9,7 +9,15 @@ function App() {
   return (
     <>
 <Navbar></Navbar>
+<div className="main-container flex text-center">
+  <div className="left-container w-[70%]">
 <Blogs></Blogs>
+  </div>
+  <div className="right-container w-[30%]">
+    <h2>hello right</h2>
+  </div>
+</div>
+
     </>
   )
 }
