@@ -1,12 +1,15 @@
 
 import './App.css'
+import Blogs from './components/Blogs/Blogs'
+import Navbar from './components/Navbar/Navbar'
 
 function App() {
 
 
   return (
     <>
-<h2>knowledge cafe</h2>
+<Navbar></Navbar>
+<Blogs></Blogs>
     </>
   )
 }
