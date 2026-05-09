@@ -1,7 +1,7 @@
 import React from 'react';
-
+import { FaBookmark } from "react-icons/fa";
 const Blog = ({blog}) => {
-    const {cover, title, } = blog
+    const {cover, title, author, author_img, hashtags} = blog
     return (
         <div>
            <div className="card bg-base-100 w-96 shadow-sm">
@@ -11,11 +11,25 @@ const Blog = ({blog}) => {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">{title}</h2>
+    <div className='flex justify-between items-center'>
+<div className='flex items-center'>
+           <div className="avatar">
+  <div className="w-12 rounded-full">
+    <img src={author_img} />
+  </div>
+    </div>
+    <h3 className='text-xl font-bold pl-4'>{author}</h3>
+</div>
+ <div>   <FaBookmark size={25}/></div>
+    </div>
+    <h2 className="card-title text-2xl">{title}</h2>
     <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
-      
+<div className='flex font-semibold text-xl'>
+        {
+hashtags.map(has=><p>{has}</p>)
+      }
+</div>
     <div className="card-actions justify-end">
-     
       <button className="btn btn-primary">Mark as read</button>
     </div>
   </div>

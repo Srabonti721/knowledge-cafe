@@ -4,7 +4,7 @@
     "title": "JavaScript Basics",
     "cover": "https://i.ibb.co.com/XZQkBSYH/js.jpg",
     "author": "John Doe",
-    "author_img": "https://i.ibb.co/example/john.jpg",
+    "author_img": "https://i.ibb.co.com/spBG9Ypk/james.jpg",
     "posted_date": "May 5, 2026",
     "reading_time": 5,
     "hashtags": ["javascript", "coding"]
@@ -14,7 +14,7 @@
     "title": "Learn React Easily",
     "cover": "https://i.ibb.co.com/Y7TRQ435/react-img.png",
     "author": "Sarah Smith",
-    "author_img": "https://i.ibb.co/example/sarah.jpg",
+    "author_img": "https://i.ibb.co.com/CKK3kYqg/eades.jpg",
     "posted_date": "May 3, 2026",
     "reading_time": 7,
     "hashtags": ["react", "frontend"]
@@ -24,7 +24,7 @@
     "title": "CSS Flexbox Guide",
     "cover": "https://i.ibb.co.com/mVvWkV68/css-flex-box.jpg",
     "author": "Mike Lee",
-    "author_img": "https://i.ibb.co/example/mike.jpg",
+    "author_img": "https://i.ibb.co.com/BVzCVJKb/bradford.jpg",
     "posted_date": "April 30, 2026",
     "reading_time": 4,
     "hashtags": ["css", "design"]
@@ -34,7 +34,7 @@
     "title": "HTML for Beginners",
     "cover": "https://i.ibb.co.com/q3XSyn7Q/html.jpg",
     "author": "Emma Wilson",
-    "author_img": "https://i.ibb.co/example/emma.jpg",
+    "author_img": "https://i.ibb.co.com/RTpNYGvC/student.jpg",
     "posted_date": "April 28, 2026",
     "reading_time": 6,
     "hashtags": ["html", "web"]
@@ -44,7 +44,7 @@
     "title": "Understanding APIs",
     "cover": "https://i.ibb.co.com/RGC6NPTZ/api.jpg",
     "author": "David Brown",
-    "author_img": "https://i.ibb.co/example/david.jpg",
+    "author_img": "https://i.ibb.co.com/xSMbPhs4/tayla.jpg",
     "posted_date": "April 25, 2026",
     "reading_time": 8,
     "hashtags": ["api", "backend"]
@@ -54,7 +54,7 @@
     "title": "Tailwind CSS Tips",
     "cover": "https://i.ibb.co.com/sJ9dkqKS/tailwind.jpg",
     "author": "Sophia Miller",
-    "author_img": "https://i.ibb.co/example/sophia.jpg",
+    "author_img": "https://i.ibb.co.com/0pMkfYK6/simon.jpg",
     "posted_date": "April 22, 2026",
     "reading_time": 5,
     "hashtags": ["tailwind", "css"]
@@ -64,7 +64,7 @@
     "title": "Node.js Introduction",
     "cover": "https://i.ibb.co.com/2Y3ZR8Bs/node-js.jpg",
     "author": "Chris Evans",
-    "author_img": "https://i.ibb.co/example/chris.jpg",
+    "author_img": "https://i.ibb.co.com/1DNdWRC/fleur.jpg",
     "posted_date": "April 20, 2026",
     "reading_time": 9,
     "hashtags": ["nodejs", "backend"]
@@ -74,7 +74,7 @@
     "title": "Git and GitHub Guide",
     "cover": "https://i.ibb.co.com/DfQYFxwS/github-img.png",
     "author": "Olivia Taylor",
-    "author_img": "https://i.ibb.co/example/olivia.jpg",
+    "author_img": "https://i.ibb.co.com/BVzCVJKb/bradford.jpg",
     "posted_date": "April 18, 2026",
     "reading_time": 6,
     "hashtags": ["git", "github"]
@@ -84,7 +84,7 @@
     "title": "Responsive Web Design",
     "cover": "https://i.ibb.co.com/gZngmvL3/responsive.jpg",
     "author": "Daniel White",
-    "author_img": "https://i.ibb.co/example/daniel.jpg",
+    "author_img": "https://i.ibb.co.com/spBG9Ypk/james.jpg",
     "posted_date": "April 15, 2026",
     "reading_time": 7,
     "hashtags": ["responsive", "design"]
@@ -94,7 +94,7 @@
     "title": "Async Await in JavaScript",
     "cover": "https://i.ibb.co.com/7J6GJ9DX/async.png",
     "author": "Liam Scott",
-    "author_img": "https://i.ibb.co/example/liam.jpg",
+    "author_img": "https://i.ibb.co.com/CKK3kYqg/eades.jpg",
     "posted_date": "April 12, 2026",
     "reading_time": 8,
     "hashtags": ["javascript", "async"]
