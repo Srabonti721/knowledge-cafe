@@ -39,7 +39,7 @@ setBookMark(remainingBookMark)
           <h2>Reading Time : {readingCount}</h2>
           <p>Bookmark Count : {bookMark.length}</p>
           {
-            bookMark.map(book => <p className='border-2 p-2 m-4 rounded-2xl'>{book.title}</p>)
+            bookMark.map((book, index) => <p key={index} className='border-2 p-2 m-4 rounded-2xl'>{book.title}</p>)
           }
         </div>
       </div>
