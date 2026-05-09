@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaBookmark } from "react-icons/fa";
-const Blog = ({blog}) => {
+const Blog = ({blog, handleBookMark}) => {
     const {cover, title, author, author_img, hashtags} = blog
     return (
         <div>
@@ -20,13 +20,15 @@ const Blog = ({blog}) => {
     </div>
     <h3 className='text-xl font-bold pl-4'>{author}</h3>
 </div>
- <div>   <FaBookmark size={25}/></div>
+ <div>  
+  <button onClick={()=>handleBookMark(blog)}><FaBookmark size={25}/></button>
+   </div>
     </div>
     <h2 className="card-title text-2xl">{title}</h2>
     <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
 <div className='flex font-semibold text-xl'>
         {
-hashtags.map(has=><p>{has}</p>)
+hashtags.map((has, index)=><p key={index}>{has}</p>)
       }
 </div>
     <div className="card-actions justify-end">
